@@ -45,14 +45,14 @@ nav a {
 
 /* Banner styles */
 #banner {
-	background-image: url('https://blogs.synopsys.com/from-silicon-to-software/files/2022/03/james-webb-space-telescope-578238551-1200x675-1-1024x576.jpg');
+	background-image: url('https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e473me9kum0pr6c3m4qcq0xt4oqshi4kldy3zq8qwq9&ep=v1_gifs_related&rid=giphy.gif&ct=g');
 	background-size: cover;
 	background-position: center;
 	height: 500px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	color: #fff;
+	color: #fffefe;
 	text-align: center;
 }
 
