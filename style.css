@@ -126,6 +126,13 @@ nav a {
 	margin-bottom: 20px;
 }
 
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
 /* Contact section styles */
 #contact {
 	background-color: #f2f2f2;
